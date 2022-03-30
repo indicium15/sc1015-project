@@ -1,20 +1,26 @@
-# sc1015-project
+# sc1015-mini-project
 ## About
 This is a mini-project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on evaluating the effectiveness of Machine Learning Models for classifying Fake News Headlines.
 ## Contributors
-- @hyunsunryu2020: Hyunsun Ryu - Data Cleaning and EDA 
-- @pravindkk: Pavind Kumar - Model Building
-- @indicium15: Chaitanya Jadhav - Model Evaluation
+- [@hyunsunryu2020](https://github.com/hyunsunryu2020): Hyunsun Ryu - Data Cleaning and EDA 
+- [@pravindkk](https://github.com/pravindkk): Pavind Kumar - Model Building
+- [@indicium15](https://github.com/indicium15): Chaitanya Jadhav - Model Evaluation
 ## Problem Definition
 - Are we able to apply Natural Language Processing to classify the headline of a news article as being fake or real?
 - Based on the model we have, how can we improve its accuracy and effectiveness?
 ## Model Used
 - LTSM Model
+## Stages of Analysis
+1. [Data Cleaning](https://github.com/indicium15/sc1015-project/blob/main/Cleaning.ipynb)
+2. [EDA - Generating a WordCloud](https://github.com/indicium15/sc1015-project/blob/main/EDA.ipynb)
+3. [EDA - Using Sentiment Analysis](https://github.com/indicium15/sc1015-project/blob/main/SentimentAnalysis.ipynb)
+3. [Building the Model](https://github.com/indicium15/sc1015-project/blob/main/machineLearningLSTM.ipynb)
+4. [Model Evaluation](https://github.com/indicium15/sc1015-project/blob/main/machineLearningLSTM.ipynb)
 ## Conclusions
 - The LSTM model is a good base for classifying headlines
 - Our model is good at classifying fake news but bad at classifying true news due to the nature of our data and the linguistic nature of the headlines
 - There are improvements that can be made to our current model to improve accuracy
-## Skills Learned
+## Skills Learnt
 - Collaboration using GitHub and Google Collab
 - How to clean text data
 - How to draw insights from text data
@@ -28,6 +34,10 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 2. [Onion or Not?](https://www.kaggle.com/datasets/chrisfilo/onion-or-not)
 3. [Buzzfeed Political News Data](https://github.com/BenjaminDHorne/fakenewsdata1)
 4. [ABC News Headlines](https://www.kaggle.com/datasets/therohk/million-headlines)
+
+### EDA
+1. [Word Cloud Generation](https://www.datacamp.com/community/tutorials/wordcloud-python)
+2. [Sentiment Analysis](https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6)
 
 ### Evaluation Metrics:
 1. [ROC Curve](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-imbalanced-classification/)
