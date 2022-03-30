@@ -18,8 +18,8 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 4. [Model Evaluation](https://github.com/indicium15/sc1015-project/blob/main/machineLearningLSTM.ipynb)
 ## Conclusions
 - The LSTM model is a good base for classifying headlines
-- Our model is good at classifying fake news but bad at classifying true news due to the nature of our data and the linguistic nature of the headlines
-- There are improvements that can be made to our current model to improve accuracy
+- Our model is good at classifying fake news but bad at classifying true news due to the nature of our data and the overlap in linguistic nature of some headlines.
+- There are improvements that can be made to our current model to improve accuracy that we have proposed in our presentation.
 ## Skills Learnt
 - Collaboration using GitHub and Google Collab
 - How to clean text data
