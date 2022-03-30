@@ -15,7 +15,8 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 2. [EDA - Generating a WordCloud](https://github.com/indicium15/sc1015-project/blob/main/EDA.ipynb)
 3. [EDA - Using Sentiment Analysis](https://github.com/indicium15/sc1015-project/blob/main/SentimentAnalysis.ipynb)
 3. [Building the Model](https://github.com/indicium15/sc1015-project/blob/main/machineLearningLSTM.ipynb)
-4. [Model Evaluation](https://github.com/indicium15/sc1015-project/blob/main/machineLearningLSTM.ipynb)
+4. [Model Evaluation](https://github.com/indicium15/sc1015-project/blob/main/Model%20Evaluation.ipynb)
+
 ## Conclusions
 - The LSTM model is a good base for classifying headlines
 - Our model is good at classifying fake news but bad at classifying true news due to the nature of our data and the overlap in linguistic nature of some headlines.
