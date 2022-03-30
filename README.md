@@ -11,11 +11,11 @@ This is a mini-project for SC1015 (Introduction to Data Science and Artificial I
 ## Model Used
 - LTSM Model
 ## Stages of Analysis
-1. [Data Cleaning](https://github.com/indicium15/sc1015-project/blob/main/Cleaning.ipynb)
-2. [EDA - Generating a WordCloud](https://github.com/indicium15/sc1015-project/blob/main/EDA.ipynb)
-3. [EDA - Using Sentiment Analysis](https://github.com/indicium15/sc1015-project/blob/main/SentimentAnalysis.ipynb)
-3. [Building the Model](https://github.com/indicium15/sc1015-project/blob/main/machineLearningLSTM.ipynb)
-4. [Model Evaluation](https://github.com/indicium15/sc1015-project/blob/main/Model%20Evaluation.ipynb)
+1. [Data Cleaning](https://github.com/indicium15/sc1015-project/blob/main/Cleaning.ipynb) [(Backup Link)](https://nbviewer.org/github/indicium15/sc1015-project/blob/main/Cleaning.ipynb)
+2. [EDA - Generating a WordCloud](https://github.com/indicium15/sc1015-project/blob/main/EDA.ipynb) [(Backup Link)](https://github.com/indicium15/sc1015-project/blob/main/EDA.ipynb)
+3. [EDA - Using Sentiment Analysis](https://github.com/indicium15/sc1015-project/blob/main/SentimentAnalysis.ipynb) [(Backup Link)](https://github.com/indicium15/sc1015-project/blob/main/SentimentAnalysis.ipynb)
+3. [Building the Model](https://github.com/indicium15/sc1015-project/blob/main/machineLearningLSTM.ipynb) [(Backup Link)](https://github.com/indicium15/sc1015-project/blob/main/machineLearningLSTM.ipynb)
+4. [Model Evaluation](https://github.com/indicium15/sc1015-project/blob/main/Model%20Evaluation.ipynb) [(Backup Link)](https://github.com/indicium15/sc1015-project/blob/main/Model%20Evaluation.ipynb)
 
 ## Conclusions
 - The LSTM model is a good base for classifying headlines
